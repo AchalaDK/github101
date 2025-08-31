@@ -1,17 +1,6 @@
 
-This is my sample Readme
+#This is my sample Readme for branch a
+#This is branch a
 
-#This is feature a branch
-#newly added line
+#line-a
 
-#added a new line for testing-1
-#added a new line for testing-2
-#added a new line for testing-3
-
-#line to check comaprisons
-
-#delete
-#delete-1
-#delete-2
-
-#see conflict feature-a
