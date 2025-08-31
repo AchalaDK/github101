@@ -1,9 +1,4 @@
+#This is my sample Readme for main branch
+#This is branch main
 
-#This is my sample Readme
-
-
-#This is feature b branch
-
-
-#this is feature-b line to merge
-#feature-1
+#line-main
