@@ -1,15 +1,9 @@
 
 #This is my sample Readme
 
-#This is feature a branch
-#newly added line
 
-#added a new line for testing-1
-#added a new line for testing-2
-#added a new line for testing-3
-
-#line to check comaprisons
-
-#delete
+#This is feature b branch
 
 
+#this is feature-b line to merge
+#feature-1
