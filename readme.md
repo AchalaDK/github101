@@ -13,3 +13,5 @@
 #main has this line already. Let's check on deletion at merge
 #andd also this lineto be checked at merge
 
+#delete
+#delete-1
