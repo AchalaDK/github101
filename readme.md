@@ -1,5 +1,5 @@
 
-#This is my sample Readme
+This is my sample Readme
 
 #This is feature a branch
 #newly added line
@@ -13,3 +13,5 @@
 #delete
 #delete-1
 #delete-2
+
+#see conflict feature-a
