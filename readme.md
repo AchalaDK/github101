@@ -10,8 +10,6 @@
 
 #line to check comaprisons
 
-#main has this line already. Let's check on deletion at merge
-
-#deletion
+#delete
 
 
