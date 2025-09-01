@@ -4,5 +4,6 @@
 
 <br>
 #line 2 in feature-a to be merged
-
+<br>
+#line 3 in feature-b to be merged
 
