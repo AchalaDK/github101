@@ -5,5 +5,9 @@
 <br>
 #line 2 in feature-a to be merged
 <br>
+
+#I need both
+#line 3 in feature-a to be merged
 #line 3 in feature-b to be merged
+
 
