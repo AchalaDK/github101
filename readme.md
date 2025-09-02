@@ -13,3 +13,5 @@
 #I am c
 <br>
 #I live in Kandy
+<br>
+#I have a dog
